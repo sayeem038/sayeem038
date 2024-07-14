@@ -5,7 +5,7 @@
   
 <h3 align="center">Aspiring Software Engineer from Bangladesh.</h>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayeem038&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoy7722" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayeem038&label=Profile%20views&color=0e75b6&style=flat" alt="sayeem038" /> </p>
 
 - 🔭 I’m currently working on *Python Development*
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me *mdsayeemrahman417@gmail.com*
 
-- 📄 Know about my experiences [https://sayeem038.github.io/Md-Sayeem-Rahman---Portfolio/](https://drive.google.com/drive/home)
+- 📄 Know about Myself [https://drive.google.com/file/d/1gHQN6OLXee08dQ8iO9__Tg7HevEC2_TA/view?usp=sharing]
 
 - ⚡ Fun fact *I can travel anywhere in a second*
 
