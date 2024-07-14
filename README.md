@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Md Sayeem Rahman</h1>
 
 <div align="center"><img src=["[https://github.com/sayeem038/sayeem038/blob/main/saem%20banner.png]"]</div>
-  
-<h3 align="center">Aspiring Software Engineer from Bangladesh.</h>
+  # <h3 align="center">Aspiring Software Engineer from Bangladesh.</h>
+
 
 <p align="left"> <img src="https://github.com/sayeem038/sayeem038/blob/main/saem%20banner.png" /> </p>
 
