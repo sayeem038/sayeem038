@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Md Sayeem Rahman</h1>
 
-<div align="center">
-  <img src="https://github.com/sayeem038/sayeem038/blob/main/saem%20banner.png" alt="Md Sayeem Rahman Banner" />
-</div>
+
 
 <h3 align="center">Aspiring Software Engineer</h3>
 
-<p align="left">
-  <img src="https://github.com/sayeem038/sayeem038/blob/main/saem%20banner.png" alt="Banner" />
-</p>
+<div align="center">
+  <img src="https://github.com/sayeem038/sayeem038/blob/main/Brown%20and%20Gray%20Simple%20Personal%20LinkedIn%20Banner%20(1).png" alt="Md Sayeem Rahman Banner" />
+</div>
+
+
 
 - 🔭 I’m currently working on **Python Development**
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **Software Engineering & Machine Learning Projects**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sayeem038)
+- 👨‍💻 All of my projects are available at [sayeem038](https://github.com/sayeem038)
 - 💬 Ask me about **Software & Web Development, Python**
 - 📫 How to reach me: *mdsayeemrahman417@gmail.com*
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1gHQN6OLXee08dQ8iO9__Tg7HevEC2_TA/view?usp=sharing)
+- 📄 Know about my experiences: [Md Sayeem Rahman](https://drive.google.com/file/d/1gHQN6OLXee08dQ8iO9__Tg7HevEC2_TA/view?usp=sharing)
 - ⚡ Fun fact: **I can travel anywhere in a second**
 
 <h3 align="left">Connect with me:</h3>
