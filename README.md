@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on **Python Development**
+- 🔭 I’m currently practicing on **Python Development**
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **Software Engineering & Machine Learning Projects**
 - 👨‍💻 All of my projects are available at [sayeem038](https://github.com/sayeem038)
