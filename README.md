@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **Software Engineering & Machine Learning Projects**
 - 👨‍💻 All of my projects are available at [sayeem038](https://github.com/sayeem038)
-- 💬 Ask me about **Software & Web Development, Python**
+- 💬 Ask me about **Software, Web & ML Development as well as Python**
 - 📫 How to reach me: *mdsayeemrahman417@gmail.com*
 - 📄 Know about my experiences: [Md Sayeem Rahman](https://drive.google.com/file/d/1gHQN6OLXee08dQ8iO9__Tg7HevEC2_TA/view?usp=sharing)
 - ⚡ Fun fact: **I can travel anywhere in a second**
