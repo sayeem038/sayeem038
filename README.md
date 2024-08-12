@@ -5,7 +5,7 @@
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <div align="center">
-  <img src=".png" alt="Md Sayeem Rahman Banner" />
+  <img src=".png" alt="" />
 </div>
 
 
