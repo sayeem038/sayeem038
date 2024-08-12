@@ -5,7 +5,7 @@
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <div align="center">
-  <img src="https://github.com/sayeem038/sayeem038/blob/main/Brown%20and%20Gray%20Simple%20Personal%20LinkedIn%20Banner%20(1).png" alt="Md Sayeem Rahman Banner" />
+  <img src=".png" alt="Md Sayeem Rahman Banner" />
 </div>
 
 
