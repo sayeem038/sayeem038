@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center"></h3>
 
 <div align="center">
   <img src=".png" alt="" />
